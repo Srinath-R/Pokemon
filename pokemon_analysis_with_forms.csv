@@ -1,0 +1,159 @@
+name,id,types,base_stats_total,defensive_advantages
+Archaludon,1018,"Steel, Dragon",600,14
+Goodra (Hisui),10242,"Steel, Dragon",600,14
+Duraludon,884,"Steel, Dragon",535,14
+Mega Scizor,10046,"Bug, Steel",600,13
+Kingambit,983,"Dark, Steel",550,13
+Gholdengo,1000,"Steel, Ghost",550,13
+Empoleon,395,"Water, Steel",530,13
+Probopass,476,"Rock, Steel",525,13
+Mega Metagross,10076,"Steel, Psychic",700,12
+Mega Lucario,10059,"Fighting, Steel",625,12
+Mega Steelix,10072,"Steel, Ground",610,12
+Metagross,376,"Steel, Psychic",600,12
+Magnezone,462,"Electric, Steel",535,12
+Aggron,306,"Steel, Rock",530,12
+Lucario,448,"Fighting, Steel",525,12
+Mega Aggron,10053,Steel,630,11
+Mega Houndoom,10048,"Dark, Fire",600,9
+Mega Camerupt,10087,"Fire, Ground",560,9
+Arcanine (Hisui),10230,"Fire, Rock",555,9
+Typhlosion (Hisui),10233,"Fire, Ghost",534,9
+Incineroar,727,"Fire, Dark",530,9
+Skeledirge,911,"Fire, Ghost",530,9
+Ceruledge,937,"Fire, Ghost",525,9
+Giratina (Origin),10007,"Ghost, Dragon",680,8
+Mega Charizard X,10034,"Fire, Dragon",634,8
+Mega Charizard Y,10035,"Fire, Flying",634,8
+Mega Blaziken,10050,"Fire, Fighting",630,8
+Mega Venusaur,10033,"Grass, Poison",625,8
+Mega Aerodactyl,10042,"Rock, Flying",615,8
+Dragapult,887,"Dragon, Ghost",600,8
+Mega Altaria,10067,"Dragon, Fairy",590,8
+Archeops,567,"Rock, Flying",567,8
+Volcarona,637,"Bug, Fire",550,8
+Gyarados,130,"Water, Flying",540,8
+Darmanitan (Zen),10017,"Fire, Psychic",540,8
+Charizard,6,"Fire, Flying",534,8
+Infernape,392,"Fire, Fighting",534,8
+Delphox,655,"Fire, Psychic",534,8
+Blaziken,257,"Fire, Fighting",530,8
+Decidueye,724,"Grass, Ghost",530,8
+Primarina,730,"Water, Fairy",530,8
+Emboar,500,"Fire, Fighting",528,8
+Venusaur,3,"Grass, Poison",525,8
+Centiskorch,851,"Fire, Bug",525,8
+Armarouge,936,"Fire, Psychic",525,8
+Glimmora,970,"Rock, Poison",525,8
+Zygarde (Complete),10120,"Dragon, Ground",708,7
+Mega Tyranitar,10049,"Rock, Dark",700,7
+Mega Garchomp,10058,"Dragon, Ground",700,7
+Mega Salamence,10089,"Dragon, Flying",700,7
+Mega Gyarados,10041,"Water, Dark",640,7
+Greninja (Ash),10117,"Water, Dark",640,7
+Mega Swampert,10064,"Water, Ground",635,7
+Dragonite,149,"Dragon, Flying",600,7
+Tyranitar,248,"Rock, Dark",600,7
+Salamence,373,"Dragon, Flying",600,7
+Garchomp,445,"Dragon, Ground",600,7
+Hydreigon,635,"Dark, Dragon",600,7
+Kommo-O,784,"Dragon, Fighting",600,7
+Shaymin (Sky),10006,"Grass, Flying",600,7
+Landorus (Therian),10021,"Ground, Flying",600,7
+Zygarde (50-Power-Construct),10119,"Dragon, Ground",600,7
+Thundurus (Therian),10020,"Electric, Flying",580,7
+Keldeo (Resolute),10024,"Water, Fighting",580,7
+Mega Sharpedo,10070,"Water, Dark",560,7
+Urshifu (Rapid-Strike),10191,"Fighting, Water",550,7
+Swampert,260,"Water, Ground",535,7
+Noivern,715,"Flying, Dragon",535,7
+Chesnaught,652,"Grass, Fighting",530,7
+Greninja,658,"Water, Dark",530,7
+Golisopod,768,"Bug, Water",530,7
+Meowscarada,908,"Grass, Dark",530,7
+Quaquaval,914,"Water, Fighting",530,7
+Decidueye (Hisui),10244,"Grass, Fighting",530,7
+Samurott (Hisui),10236,"Water, Dark",528,7
+Torterra,389,"Grass, Ground",525,7
+Mega Ampharos,10045,"Electric, Dragon",610,6
+Mega Gengar,10038,"Ghost, Poison",600,6
+Mega Heracross,10047,"Bug, Fighting",600,6
+Mega Slowbro,10071,"Water, Psychic",590,6
+Enamorus (Therian),10249,"Fairy, Flying",580,6
+Arcanine,59,Fire,555,6
+Togekiss,468,"Fairy, Flying",545,6
+Kingdra,230,"Water, Dragon",540,6
+Magmortar,467,Fire,540,6
+Darmanitan (Galar-Zen),10178,"Ice, Fire",540,6
+Crobat,169,"Poison, Flying",535,6
+Rhyperior,464,"Ground, Rock",535,6
+Annihilape,979,"Fighting, Ghost",535,6
+Typhlosion,157,Fire,534,6
+Exeggutor,103,"Grass, Psychic",530,6
+Cinderace,815,Fire,530,6
+Flareon,136,Fire,525,6
+Mega Sceptile,10065,"Grass, Dragon",630,5
+Mega Gardevoir,10051,"Psychic, Fairy",618,5
+Mega Gallade,10068,"Psychic, Fighting",618,5
+Baxcalibur,998,"Dragon, Ice",600,5
+Mega Pinsir,10040,"Bug, Flying",600,5
+Mega Abomasnow,10060,"Grass, Ice",594,5
+Mega Pidgeot,10073,"Normal, Flying",579,5
+Urshifu (Single-Strike-Gmax),10226,"Fighting, Dark",550,5
+Mega Audino,10069,"Normal, Fairy",545,5
+Hydrapple,1019,"Grass, Dragon",540,5
+Exeggutor (Alola),10114,"Grass, Dragon",530,5
+Palafin (Hero),10256,Water,650,4
+Mega Blastoise,10036,Water,630,4
+Wishiwashi (School),10127,Water,620,4
+Goodra,706,Dragon,600,4
+Meloetta (Pirouette),10018,"Normal, Fighting",600,4
+Tornadus (Therian),10019,Flying,580,4
+Mega Lopunny,10088,"Normal, Fighting",580,4
+Mega Banette,10056,Ghost,555,4
+Ursaluna (Bloodmoon),10272,"Ground, Normal",555,4
+Florges,671,Fairy,552,4
+Floette (Eternal),10061,Fairy,551,4
+Ursaluna,901,"Ground, Normal",550,4
+Milotic,350,Water,540,4
+Haxorus,612,Dragon,540,4
+Lapras,131,"Water, Ice",535,4
+Tangrowth,465,Grass,535,4
+Gogoat,673,Grass,531,4
+Blastoise,9,Water,530,4
+Feraligatr,160,Water,530,4
+Sceptile,254,Grass,530,4
+Walrein,365,"Ice, Water",530,4
+Mamoswine,473,"Ice, Ground",530,4
+Rillaboom,812,Grass,530,4
+Inteleon,818,Water,530,4
+Dondozo,977,Water,530,4
+Serperior,497,Grass,528,4
+Samurott,503,Water,528,4
+Cloyster,91,"Water, Ice",525,4
+Vaporeon,134,Water,525,4
+Meganium,154,Grass,525,4
+Leafeon,470,Grass,525,4
+Dusknoir,477,Ghost,525,4
+Sylveon,700,Fairy,525,4
+Mega Manectric,10055,Electric,575,3
+Mega Absol,10057,Dark,565,3
+Electivire,466,Electric,540,3
+Jolteon,135,Electric,525,3
+Umbreon,197,Dark,525,3
+Hippowdon,450,Ground,525,3
+Wyrdeer,899,"Normal, Psychic",525,3
+Deoxys (Attack),10001,Psychic,600,2
+Deoxys (Defense),10002,Psychic,600,2
+Deoxys (Speed),10003,Psychic,600,2
+Mega Alakazam,10037,Psychic,600,2
+Espeon,196,Psychic,525,2
+Slaking,289,Normal,670,1
+Mega Kangaskhan,10039,Normal,590,1
+Mega Glalie,10074,Ice,580,1
+Snorlax,143,Normal,540,1
+Blissey,242,Normal,540,1
+Porygon-Z,474,Normal,535,1
+Vanilluxe,584,Ice,535,1
+Type-Null,772,Normal,534,1
+Glaceon,471,Ice,525,1

@@ -1,0 +1,93 @@
+name,id,types,base_stats_total,defensive_advantages
+Archaludon,1018,"Steel, Dragon",600,14
+Duraludon,884,"Steel, Dragon",535,14
+Kingambit,983,"Dark, Steel",550,13
+Gholdengo,1000,"Steel, Ghost",550,13
+Empoleon,395,"Water, Steel",530,13
+Probopass,476,"Rock, Steel",525,13
+Metagross,376,"Steel, Psychic",600,12
+Magnezone,462,"Electric, Steel",535,12
+Aggron,306,"Steel, Rock",530,12
+Lucario,448,"Fighting, Steel",525,12
+Incineroar,727,"Fire, Dark",530,9
+Skeledirge,911,"Fire, Ghost",530,9
+Ceruledge,937,"Fire, Ghost",525,9
+Dragapult,887,"Dragon, Ghost",600,8
+Archeops,567,"Rock, Flying",567,8
+Volcarona,637,"Bug, Fire",550,8
+Gyarados,130,"Water, Flying",540,8
+Charizard,6,"Fire, Flying",534,8
+Infernape,392,"Fire, Fighting",534,8
+Delphox,655,"Fire, Psychic",534,8
+Blaziken,257,"Fire, Fighting",530,8
+Decidueye,724,"Grass, Ghost",530,8
+Primarina,730,"Water, Fairy",530,8
+Emboar,500,"Fire, Fighting",528,8
+Venusaur,3,"Grass, Poison",525,8
+Centiskorch,851,"Fire, Bug",525,8
+Armarouge,936,"Fire, Psychic",525,8
+Glimmora,970,"Rock, Poison",525,8
+Dragonite,149,"Dragon, Flying",600,7
+Tyranitar,248,"Rock, Dark",600,7
+Salamence,373,"Dragon, Flying",600,7
+Garchomp,445,"Dragon, Ground",600,7
+Hydreigon,635,"Dark, Dragon",600,7
+Kommo-O,784,"Dragon, Fighting",600,7
+Swampert,260,"Water, Ground",535,7
+Noivern,715,"Flying, Dragon",535,7
+Chesnaught,652,"Grass, Fighting",530,7
+Greninja,658,"Water, Dark",530,7
+Golisopod,768,"Bug, Water",530,7
+Meowscarada,908,"Grass, Dark",530,7
+Quaquaval,914,"Water, Fighting",530,7
+Torterra,389,"Grass, Ground",525,7
+Arcanine,59,Fire,555,6
+Togekiss,468,"Fairy, Flying",545,6
+Kingdra,230,"Water, Dragon",540,6
+Magmortar,467,Fire,540,6
+Crobat,169,"Poison, Flying",535,6
+Rhyperior,464,"Ground, Rock",535,6
+Annihilape,979,"Fighting, Ghost",535,6
+Typhlosion,157,Fire,534,6
+Exeggutor,103,"Grass, Psychic",530,6
+Cinderace,815,Fire,530,6
+Flareon,136,Fire,525,6
+Baxcalibur,998,"Dragon, Ice",600,5
+Hydrapple,1019,"Grass, Dragon",540,5
+Goodra,706,Dragon,600,4
+Florges,671,Fairy,552,4
+Ursaluna,901,"Ground, Normal",550,4
+Milotic,350,Water,540,4
+Haxorus,612,Dragon,540,4
+Lapras,131,"Water, Ice",535,4
+Tangrowth,465,Grass,535,4
+Gogoat,673,Grass,531,4
+Blastoise,9,Water,530,4
+Feraligatr,160,Water,530,4
+Sceptile,254,Grass,530,4
+Walrein,365,"Ice, Water",530,4
+Mamoswine,473,"Ice, Ground",530,4
+Rillaboom,812,Grass,530,4
+Inteleon,818,Water,530,4
+Dondozo,977,Water,530,4
+Serperior,497,Grass,528,4
+Samurott,503,Water,528,4
+Cloyster,91,"Water, Ice",525,4
+Vaporeon,134,Water,525,4
+Meganium,154,Grass,525,4
+Leafeon,470,Grass,525,4
+Dusknoir,477,Ghost,525,4
+Sylveon,700,Fairy,525,4
+Electivire,466,Electric,540,3
+Jolteon,135,Electric,525,3
+Umbreon,197,Dark,525,3
+Hippowdon,450,Ground,525,3
+Wyrdeer,899,"Normal, Psychic",525,3
+Espeon,196,Psychic,525,2
+Slaking,289,Normal,670,1
+Snorlax,143,Normal,540,1
+Blissey,242,Normal,540,1
+Porygon-Z,474,Normal,535,1
+Vanilluxe,584,Ice,535,1
+Type-Null,772,Normal,534,1
+Glaceon,471,Ice,525,1
